@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "buncho": { "type": "http", "url": "https://bun-cho.work/mcp" }
+  }
+}

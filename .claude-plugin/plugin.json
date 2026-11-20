@@ -1,0 +1,8 @@
+{
+  "name": "buncho",
+  "version": "0.1.0",
+  "description": "BunCho for Claude Code: Japanese stories, manga, vertical short videos and real-city 3D, paid per call in DREAM. Skills for story → manga → short video and multi-episode series, plus the BunCho MCP server.",
+  "author": { "name": "Industrial Dream Inc.", "url": "https://bun-cho.work/developers" },
+  "homepage": "https://bun-cho.work/developers",
+  "license": "UNLICENSED"
+}

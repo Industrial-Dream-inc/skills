@@ -1,0 +1,7 @@
+{
+  "name": "buncho",
+  "owner": { "name": "Industrial Dream Inc.", "url": "https://bun-cho.work/developers" },
+  "plugins": [
+    { "name": "buncho", "source": "./", "description": "BunCho skills (story → manga → short video, series) and the BunCho MCP server." }
+  ]
+}
